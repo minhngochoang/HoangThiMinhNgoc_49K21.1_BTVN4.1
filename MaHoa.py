@@ -13,7 +13,7 @@ def caesar_encrypt(text, key, alphabet):
             encrypted += char 
     return encrypted
 
-plaintext = "HOANG THI MiNH NGOC"
+plaintext = "HOANG THI MINH NGOC"
 key = 35
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ" 
 
